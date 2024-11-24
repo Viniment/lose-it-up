@@ -1,0 +1,8 @@
+{
+  "name": "LoseItUp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "79952ee0"
+}
